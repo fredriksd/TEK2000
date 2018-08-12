@@ -1,0 +1,8 @@
+\select@language {norsk}
+\contentsline {section}{Introduksjon}{2}
+\contentsline {section}{Hendelsesforl\IeC {\o }p}{2}
+\contentsline {subsection}{Uke 1}{2}
+\contentsline {subsection}{Uke 2}{2}
+\contentsline {subsection}{Uke 3}{2}
+\contentsline {subsection}{Uke 4}{2}
+\contentsline {section}{Diskusjon \& refleksjon}{2}
