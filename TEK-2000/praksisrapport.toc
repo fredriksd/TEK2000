@@ -1,8 +1,10 @@
 \select@language {norsk}
-\contentsline {section}{Introduksjon}{2}
-\contentsline {section}{Hendelsesforl\IeC {\o }p}{2}
-\contentsline {subsection}{Uke 1}{2}
-\contentsline {subsection}{Uke 2}{2}
-\contentsline {subsection}{Uke 3}{2}
-\contentsline {subsection}{Uke 4}{2}
-\contentsline {section}{Diskusjon \& refleksjon}{2}
+\contentsline {chapter}{\numberline {1}Introduksjon}{2}
+\contentsline {chapter}{\numberline {2}Hendelsesforl\IeC {\o }p}{3}
+\contentsline {section}{\numberline {2.1}Uke 1}{3}
+\contentsline {section}{\numberline {2.2}Uke 2}{3}
+\contentsline {section}{\numberline {2.3}Uke 3}{3}
+\contentsline {section}{\numberline {2.4}Uke 4}{3}
+\contentsline {chapter}{\numberline {3}Diskusjon \& refleksjon}{4}
+\contentsline {section}{\numberline {3.1}L\IeC {\ae }rdom}{4}
+\contentsline {section}{\numberline {3.2}Konklusjon}{4}
