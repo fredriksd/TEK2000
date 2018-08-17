@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.5)  15 AUG 2018 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.5)  17 AUG 2018 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -329,18 +329,18 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 (./praksisrapport.aux)
 \openout1 = `praksisrapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -349,24 +349,25 @@ LaTeX Font Info:    ... okay on input line 43.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* h-part:(L,W,R)=(76.82245pt, 426.79134pt, 76.82245pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.1496pt
 * \textheight=682.86613pt
 * \oddsidemargin=-14.22636pt
-* \evensidemargin=13.08827pt
+* \evensidemargin=4.55246pt
 * \topmargin=-14.22636pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -436,87 +437,96 @@ e
 <uitlogo.png, id=1, 92.2647pt x 108.6459pt>
 File: uitlogo.png Graphic file (type png)
  <use uitlogo.png>
-Package pdftex.def Info: uitlogo.png used on input line 48.
+Package pdftex.def Info: uitlogo.png used on input line 50.
 (pdftex.def)             Requested size: 170.74191pt x 170.7236pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <14.4> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <7> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 48.
+(Font)              <10.95> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <6> on input line 50.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./uitlo
 go.png>]
 (./praksisrapport.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <12> on input line 2.
 )
 \tf@toc=\write3
 \openout3 = `praksisrapport.toc'.
 
  [1
 
-]
-Kapittel 1.
-[2
-
-]
-Kapittel 2.
-<flightlogNorut.png, id=23, 952.30782pt x 1575.63657pt>
+] [2]
+<flightlogNorut.png, id=22, 952.30782pt x 1575.63657pt>
 File: flightlogNorut.png Graphic file (type png)
 
 <use flightlogNorut.png>
-Package pdftex.def Info: flightlogNorut.png used on input line 70.
+Package pdftex.def Info: flightlogNorut.png used on input line 80.
 (pdftex.def)             Requested size: 256.0803pt x 284.51595pt.
- [3
-
- <./flightlogNorut.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+ [3 <./flightlogNorut.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 89.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
- [4]
-Kapittel 3.
-[5
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
 
-] (./praksisrapport.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+<octocopt_x8.jpg, id=32, 3035.34pt x 4047.12pt>
+File: octocopt_x8.jpg Graphic file (type jpg)
+ <use octocopt_x8.jpg>
+Package pdftex.def Info: octocopt_x8.jpg used on input line 108.
+(pdftex.def)             Requested size: 307.25702pt x 227.56348pt.
+
+<octarm_x8.jpg, id=33, 1927.2pt x 1002.74625pt>
+File: octarm_x8.jpg Graphic file (type jpg)
+ <use octarm_x8.jpg>
+Package pdftex.def Info: octarm_x8.jpg used on input line 115.
+(pdftex.def)             Requested size: 385.43318pt x 200.5457pt.
+ [5 <./octocopt_x8.jpg> <./octarm_x8.jpg>] [6] (./praksisrapport.aux) ) 
 Here is how much of TeX's memory you used:
- 2975 strings out of 493089
- 39760 string characters out of 6134843
- 109618 words of memory out of 5000000
- 6404 multiletter control sequences out of 15000+600000
- 18086 words of font info for 40 fonts, out of 8000000 for 9000
+ 2979 strings out of 493089
+ 39873 string characters out of 6134843
+ 109655 words of memory out of 5000000
+ 6407 multiletter control sequences out of 15000+600000
+ 17447 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,11n,23p,475b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/c
-m-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
-m-super/sfbx1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-su
-per/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-supe
-r/sfbx2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/
-sfbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
-rm0700.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm
-0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm10
-00.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb
->
-Output written on praksisrapport.pdf (6 pages, 1723218 bytes).
+ 38i,11n,23p,612b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/lo
+cal/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on praksisrapport.pdf (7 pages, 2637400 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
