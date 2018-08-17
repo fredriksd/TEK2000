@@ -1,10 +1,9 @@
-\babel@toc {norsk}{}
-\contentsline {chapter}{\numberline {1}Introduksjon}{2}
-\contentsline {chapter}{\numberline {2}Hendelsesforl\IeC {\o }p}{3}
-\contentsline {section}{\numberline {2.1}Uke 1}{3}
-\contentsline {section}{\numberline {2.2}Uke 2}{4}
-\contentsline {section}{\numberline {2.3}Uke 3}{4}
-\contentsline {section}{\numberline {2.4}Uke 4}{4}
-\contentsline {chapter}{\numberline {3}Diskusjon \& refleksjon}{5}
-\contentsline {section}{\numberline {3.1}L\IeC {\ae }rdom}{5}
-\contentsline {section}{\numberline {3.2}Konklusjon}{5}
+\select@language {norsk}
+\contentsline {section}{Introduksjon}{2}
+\contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
+\contentsline {subsection}{Uke 1 og prosjekt}{3}
+\contentsline {subsubsection}{Backlog og GIS}{3}
+\contentsline {subsubsection}{Byggeprosjekt}{4}
+\contentsline {section}{Diskusjon \& refleksjon}{6}
+\contentsline {subsection}{L\IeC {\ae }rdom}{6}
+\contentsline {subsection}{Konklusjon}{6}
