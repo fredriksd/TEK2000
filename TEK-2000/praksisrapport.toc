@@ -3,7 +3,9 @@
 \contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
 \contentsline {subsection}{Uke 1 og prosjekt}{3}
 \contentsline {subsubsection}{Backlog og GIS}{3}
-\contentsline {subsubsection}{Byggeprosjekt}{4}
+\contentsline {subsubsection}{Forberedelse til byggeprosjekt}{4}
+\contentsline {subsection}{Uke 2}{6}
+\contentsline {subsubsection}{Begynnelse av byggeprosjekt}{6}
 \contentsline {section}{Diskusjon \& refleksjon}{6}
 \contentsline {subsection}{L\IeC {\ae }rdom}{6}
 \contentsline {subsection}{Konklusjon}{6}
