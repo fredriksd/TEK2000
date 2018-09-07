@@ -4,9 +4,10 @@
 \contentsline {subsection}{Uke 1 og prosjekt}{3}
 \contentsline {subsubsection}{Backlog og GIS}{3}
 \contentsline {subsubsection}{Forberedelse til byggeprosjekt}{4}
-\contentsline {subsection}{Uke 2 \& 3}{6}
-\contentsline {subsubsection}{Byggeprosjekt}{6}
-\contentsline {section}{Diskusjon \& refleksjon}{6}
-\contentsline {subsection}{Arbeidsforhold}{6}
-\contentsline {subsection}{L\IeC {\ae }rdom}{6}
-\contentsline {subsection}{Konklusjon}{6}
+\contentsline {subsection}{Byggeprosjekt}{6}
+\contentsline {subsubsection}{Montering}{6}
+\contentsline {subsubsection}{Inspeksjon}{10}
+\contentsline {section}{Diskusjon \& refleksjon}{12}
+\contentsline {subsection}{Arbeidsforhold}{12}
+\contentsline {subsection}{L\IeC {\ae }rdom}{12}
+\contentsline {subsection}{Konklusjon}{12}
