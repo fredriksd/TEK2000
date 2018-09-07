@@ -5,7 +5,8 @@
 \usepackage[T1]{fontenc} 								
 \usepackage[norsk]{babel}								
 \usepackage[utf8]{inputenc}						
-\usepackage{graphicx}       						
+\usepackage{graphicx}       				
+\usepackage{siunitx}		
 %\usepackage{amsmath,amssymb}
 %\usepackage{grffile}
 %\usepackage{listings}
@@ -75,9 +76,9 @@ Typisk metodikk innen luftfart (fra erfaringsmessig område) er ''learning by do
 En flight log er et skjema som beskriver en flyoperasjon. I denne loggen skal det minimum være flytype, tidspunkt for take-off, landing, tid i lufta, drivstoff brukt, hvilke luftfartsinstans man har vært i kontakt med om noe, vær og så videre. %kom med beskrivelse...
 
 %Bilde av loggskjema
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
-	\includegraphics[height= 10cm, width=0.5\textwidth]{flightlogNorut.png}
+	\includegraphics[height= 10cm, width=0.5\textwidth]{bilder/flightlogNorut.png}
 		\caption{Typisk opplegg av loggskjema til Norut. Skjemaet skal inneholde nødvendig informasjon om flighten som kan brukes til gjennomgang for neste flight. }
 \end{figure}
 \newpage
@@ -103,29 +104,112 @@ Selve byggingen av luftfartøyene kunne ikke begynne før uke 2, da delene mått
 \newpage
 I mellomtiden drev jeg med reparasjonsarbeid på et av Noruts multirotorer som havarerte. Nye rammer måtte settes på, elektroniske fartskontrollere måtte kobles opp og konfigureres og mer. Da jeg har drevet med noe bygging av multirotorer i hobbybasis, samt fått teoretisk kompetanse fra emnene på studiet, gikk mye av arbeidet bra. Konfigurasjonene som Norut bruker (se bildene under), var litt nytt, men prinsippet var det samme som på hobbyprosjektene mine. \\
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
-	\includegraphics[height = 8cm, width = 0.6\textwidth]{octocopt_x8.jpg}
+	\includegraphics[height = 8cm, width = 0.6\textwidth]{bilder/octocopt_x8.jpg}
 	\caption{Reparasjonsarbeid på en octocopter i såkalt X8 - konfigurasjon.}
 \end{figure}
 %Teknisk prosjekt - Cryowing Observer
 %\newpage
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
-	\includegraphics[scale=.2]{octarm_x8.jpg}
+	\includegraphics[scale=.2]{bilder/octarm_x8.jpg}
 	\caption{Montering av nye motorer på ytre armer.}
 \end{figure}
 
-\subsection{Uke 2 \& 3}
-\subsubsection{Byggeprosjekt}
+\subsection{Byggeprosjekt}
+\subsubsection{Montering}
 Da jeg endelig fikk delene til byggingen av Cryowing Observer - fartøyene. Hele denne uken gikk til bygging av første flykropp. Dette tok lang tid da det var lite med ressurser og folk til hjelp for å kunne få flyet ferdig i løpet av første prosjektuke. Ikke alle delene fra Bodø ble hentet opp, og materialene var dårlig systematisert. Det gikk mye tid i å finne riktige materialer til de ulike delene.\\
 Til tross for dette var dette en fin oppgave i å få utforske og prøve ulike metoder for å komme frem til en løsning. Jeg har jobbet med multirotorer før, men montering av servoer og håndtering av EPO-materiale er helt nytt for meg. Det var dermed en bratt læringskurve. \\ Min plan for gjennomføring av byggeprosjektet var å sette sammen flyene med servoer, kropp, vinger og utstyrskuppel, se bildene under.
 %Vis bilde av byggingen 
-Ting gikk ikke som planlagt, da jeg fikk vite underveis at visse deler hadde jeg montert feil, slik som at et karbonrør var for langt inn i kroppen. Dette førte til at jeg måtte hule ut overkroppen for at den skulle passe til underkroppen.\\
-Det var ikke satt opp noen referanseperson som jeg kunne forholde meg til under gjennomføringen av prosjektet. Dette gjorde at feil lettere kom gjennom uten at det ble oppdaget, på grunn av mangel på oppsyn. På grunn av mangelen på kommunikasjon som har forårsaket tidsforsinkelsen på gjennomføring av prosjektet, er det snakk om å redusere antall fly som jeg må bygge fra 3 til 1. Poenget er å få det ferdigbygga, installert og testet for training - flyvning. 
-%Legg til bilde for dette
 
+Jeg begynte med montering av vingene, ved å sette på servoer og lime kryssfiner-sparrer til vingene. Servoene ble festet med enten varmlim eller lynlim. Alle servoene som settes på måtte sentreres ved hjelp av en servo-tester, slik at det blir enklest å sette opp flyet elektronisk. 
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height = 10cm, width = .6\textwidth]{bilder/servomontering.jpg}
+	\caption{Riktig montering av servo, der servohornet er \ang{90} med horisontalplanet (her vingen).}
+\end{figure}
+
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=.6\textwidth,  height = 8cm]{bilder/vingemontering.jpg}
+	\caption{Montering av vinger}
+\end{figure}
+
+\newpage
+Deretter gikk det til montering av motor med det fremre karbonrøret. Motoren, som er av typen BLDC (børsteløs DC-motor), drives av en fartsregulator, populært kalt ESC. Denne ESC'en inneholder en spenningsregulator som tar inn batterispenningen og gir ut en konstant 5V-kilde som kan brukes til å forsyne mottaker og annet periferier med spenning. 
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height=7.6cm, width = .55\textwidth]{bilder/esc_og_motor.jpg}
+	\caption{Motor tilkoblet ESC, med bryter bypassed. XT-60 - connectoren (den gule pluggen) måtte loddes på ESC-enden.}
+\end{figure}
+
+\newpage
+Etter påmontert motor på karbonrøret, kunne røret limes på til undersiden av den midtre flykroppen ved hjelp av epoxy. Men på grunn av at epoxy ikke skaper en god kjemisk binding med EPO/isopor, men bare en fysisk binding, måtte jeg gjøre overflaten så stor som mulig. Jeg pusset begge overflatene med grovt sandpapir og lagde flere hull i EPO'en slik at epoxyen kan feste seg. 
+Men ting gikk ikke helt som planlagt, da jeg fikk vite underveis at visse deler hadde jeg montert feil, slik som at et karbonrør var for langt inn i kroppen. Da blokkerer det bakre karbonrøret for eventuell GPS som kan monteres inni ramma. Dette førte til at jeg måtte hule ut overkroppen for at den skulle passe til underkroppen. \\
+Dessuten hadde jeg aldri brukt epoxy før og visste ikke hvordan man skulle få godt nok feste mellom materialene. Første forsøk på liming ble derfor dårlig og måtte gjøres på nytt. Jeg fikk ingen veiledning på dette, bare at dette måtte gjøres om igjen. Til slutt, etter to forsøk, fikk jeg hjelp av en til å få godt nok feste. Epoxyen måtte tilsettes fyllmiddel for å kompansere for all materiale som ble skrapet av. \\
+
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height = 7cm, width = .6\textwidth]{bilder/feilmontering_av_karbon_red.jpg}
+	\caption{Det bakre karbonrøret ble limt for langt frem, og blokkerte for eventuell GPS-installasjon og påmontering av øvre ramme. Karbonrøret skal egentlig være ved den røde pilen.}
+\end{figure}
+
+\begin{figure}[ht]
+ \centering
+ \includegraphics[height=7cm, width = .6\textwidth]{bilder/fylling2_red.jpg}
+ \caption{Endeling resultat av limingen. Merk det fylte området.}
+\end{figure}
+\newpage
+
+Mens dette sto og herdet, fortsatte jeg arbeidet ved å montere halen. Jeg glemte å ta bilder av denne monteringen. Etter halen gjenstod monteringen av utstyrskammeret. Dette kammeret festes med flykroppen ved hjelp av et karbonrør gjennom begge delene, men Norut foretrekker at de er limt sammen med epoxy i tillegg til karbonrørets funksjon. Deretter ble det bare å montere på vingene, koble halen fast, og flyet var klart for første inspeksjon
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width = .5\textwidth, height = 8.1cm]{bilder/kammermontering.jpg}
+	\caption{For å holde delene sammen under herding, brukes klemmer for å presse hardt ned. Her ble det brukt 30-minutters epoxy. Det er likevel lurt å la den ligge ''ut dagen'' for best mulig feste.}
+\end{figure}
+\newpage
+\subsubsection{Inspeksjon}
+For at et luftfartøy hos Norut skal kunne flys, må det godkjennes og erklæres luftdyktig av teknisk personell. Det første flyet ble ikke godkjent, da halen horisontale stabilisator ikke var i vater. Etter en fort borring av nytt hull i karbonbommen som holder halen fast til selve flykroppen, ble flyet godkjent. Nå kunne elektronikken legges inn. \\
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width = .5\textwidth, height = 10cm]{bilder/skjev_halefinne.jpg}
+	\caption{Den vertikale stabilisatoren er ikke normal på den horisontale stabilisatoren, og gjør flyging ikke optimalt. Den kan funke, men sideroret må trimmes betraktelig for dette. Det begrenser det totale utslaget.}
+\end{figure}
+
+Da det første flyet skulle være en trainer, har den bare det mest nødvendige, altså en RC-link. Alt som måtte da gjøres var å montere mottakeren inni kammeret og koble servokablene til denne. Deretter kalibrere og mappe servo-utgangene, og flyet er klart.
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height=8cm, width = .6\textwidth]{bilder/mottakermontering.jpg}
+	\caption{Ferdig montering av X8R-mottakeren inni Observer-trainer'en. PCB-antennene er plassert i en \ang{90}-orientering for best mulig signalspekter. RC-linken her er PWM-regulert, og benytter en kanal for hver utgang.}
+\end{figure}
+\newpage
+
+Ved dette oppsettet av RC-linken brukes det totalt 8 kanaler, som er maks antall på denne mottakeren i PWM-konfigurasjon. Alternativt kunne man ha holdt seg til 6 kanaler, der flap-klaffene og balanserorene kobles i parallell. Det uheldige er at da må hver enkelte roroverflate være helt sentrert, slik at bevegelsene er synkron. I tillegg blir det mer jobb med å få servoene til å "gå riktig vei". Å holde kanalene uavhengige av hverandre gjør dermed arbeidet mye enklere og oversiktligere. 
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=.6\textwidth, height = 6.5cm]{bilder/forste_fly_ferdigstilt.jpg}
+	\caption{Trainer - flyet ferdig konfigurert, med vingespenn på 2m, og lengde på 1.5m. Byggingen av denne tok ca. 1,5 uke. }
+\end{figure}
+
+Da jeg hadde en fersk anelse om byggingen ut i fra den første modellen, gikk det hurtigere å bygge den andre. Med kombinasjon av ''fersk minne'' og noen deler som allerede var ferdiggjort i Bodø, ble nr.2 ferdig på 2 dager. For denne modellen gjenstod å montere og kalibrere servoer på overflatene, kalibrere fartsregulatoren og feste kroppen sammen. Den elektriske sammensetningen fikk jeg ikke gjennomføre, da Norut selv vil gjøre denne delen. Det ble ikke anledning for meg å kunne observere installasjon, da dette skulle tydeligvis gjøres etter endt praksisperiode. \\
+Modellen skulle installeres med utstyr for såkalt mapping-formål. Luftfartøyet følger et gridmønster satt opp ved hjelp av en bakkestasjon. Luftfartøyet har forbindelse med bakkestasjonen ved hjelp av en data-link, slik at flyet kan styres utenfor radioens 2.4GHz - rekkevidde. For dette formålet benyttes en pixhawk - autopilotsystem. I tillegg monteres på ulike sensorer for sikker og koordinert flyging. Dette inkluderer pitot-rør (for hastighetsmåling), spenningssensor, strømsensor og variometer (for høydemåling). 
+
+\subsubsection{Testflyging}
+
+
+\newpage
 \section{Diskusjon \& refleksjon}
+Det var ikke satt opp noen referanseperson som jeg kunne forholde meg til under gjennomføringen av prosjektet. Dette gjorde at feil lettere kom gjennom uten at det ble oppdaget, på grunn av mangel på oppsyn. På grunn av mangelen på kommunikasjon som har forårsaket tidsforsinkelsen på gjennomføring av prosjektet, er det snakk om å redusere antall fly som jeg må bygge fra 3 til 1. Poenget var å få det ferdigbygget, installert og testet for training - flyvning. 
+
 \subsection{Arbeidsforhold}
 \subsection{Lærdom}
 
