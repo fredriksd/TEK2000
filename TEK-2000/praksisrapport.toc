@@ -1,4 +1,4 @@
-\select@language {norsk}
+\babel@toc {norsk}{}
 \contentsline {section}{Introduksjon}{2}
 \contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
 \contentsline {subsection}{Uke 1 og prosjekt}{3}
@@ -8,7 +8,7 @@
 \contentsline {subsubsection}{Montering}{6}
 \contentsline {subsubsection}{Inspeksjon}{10}
 \contentsline {subsubsection}{Testflyging}{12}
-\contentsline {section}{Diskusjon \& refleksjon}{13}
+\contentsline {section}{Refleksjon over praksisperioden}{13}
 \contentsline {subsection}{Arbeidsforhold}{13}
 \contentsline {subsection}{L\IeC {\ae }rdom}{13}
 \contentsline {subsection}{Konklusjon}{13}
