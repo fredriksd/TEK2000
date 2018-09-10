@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.5)  7 SEP 2018 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.5)  7 SEP 2018 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -972,7 +972,7 @@ Package pdftex.def Info: bilder/forste_fly_ferdigstilt.jpg used on input line 1
 99.
 (pdftex.def)             Requested size: 307.28006pt x 184.93117pt.
  [11 <./bilder/mottakermontering.jpg> <./bilder/forste_fly_ferdigstilt.jpg>] [1
-2] (./praksisrapport.aux) ) 
+2] [13] (./praksisrapport.aux) ) 
 Here is how much of TeX's memory you used:
  11554 strings out of 493089
  242120 string characters out of 6134843
@@ -981,25 +981,25 @@ Here is how much of TeX's memory you used:
  20749 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,39p,10401b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/
-cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
-uper/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-sup
-er/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super
-/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
-fbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfr
-m0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1
-000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm109
-5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-
-Output written on praksisrapport.pdf (13 pages, 7972285 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/d
+vips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
+super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-su
+per/sfbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
+rm1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm
+1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm14
+40.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm2074
+.pfb>
+Output written on praksisrapport.pdf (14 pages, 7973901 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 117 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

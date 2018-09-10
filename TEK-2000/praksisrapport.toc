@@ -7,7 +7,8 @@
 \contentsline {subsection}{Byggeprosjekt}{6}
 \contentsline {subsubsection}{Montering}{6}
 \contentsline {subsubsection}{Inspeksjon}{10}
-\contentsline {section}{Diskusjon \& refleksjon}{12}
-\contentsline {subsection}{Arbeidsforhold}{12}
-\contentsline {subsection}{L\IeC {\ae }rdom}{12}
-\contentsline {subsection}{Konklusjon}{12}
+\contentsline {subsubsection}{Testflyging}{12}
+\contentsline {section}{Diskusjon \& refleksjon}{13}
+\contentsline {subsection}{Arbeidsforhold}{13}
+\contentsline {subsection}{L\IeC {\ae }rdom}{13}
+\contentsline {subsection}{Konklusjon}{13}
