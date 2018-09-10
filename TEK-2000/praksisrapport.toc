@@ -1,4 +1,4 @@
-\select@language {norsk}
+\babel@toc {norsk}{}
 \contentsline {section}{Introduksjon}{2}
 \contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
 \contentsline {subsection}{Uke 1 og prosjekt}{3}
