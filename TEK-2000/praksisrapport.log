@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.14)  10 SEP 2018 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.14)  17 SEP 2018 09:34
 entering extended mode
 **./praksisrapport.tex
 (praksisrapport.tex
@@ -724,62 +724,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-] [2]
-<bilder/flightlogNorut.png, id=21, 952.30782pt x 1575.63657pt>
-File: bilder/flightlogNorut.png Graphic file (type png)
-<use bilder/flightlogNorut.png>
-Package pdftex.def Info: bilder/flightlogNorut.png  used on input line 82.
-(pdftex.def)             Requested size: 256.0803pt x 284.51595pt.
- [3 <./bilder/flightlogNorut.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[2]
+<bilder/flightlogNorut.png, id=21, 952.30782pt x 1575.63657pt>
+File: bilder/flightlogNorut.png Graphic file (type png)
+<use bilder/flightlogNorut.png>
+Package pdftex.def Info: bilder/flightlogNorut.png  used on input line 100.
+(pdftex.def)             Requested size: 256.0803pt x 284.51595pt.
+ [3 <./bilder/flightlogNorut.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 <bilder/octocopt_x8.jpg, id=31, 3035.34pt x 4047.12pt>
 File: bilder/octocopt_x8.jpg Graphic file (type jpg)
 <use bilder/octocopt_x8.jpg>
-Package pdftex.def Info: bilder/octocopt_x8.jpg  used on input line 110.
+Package pdftex.def Info: bilder/octocopt_x8.jpg  used on input line 130.
 (pdftex.def)             Requested size: 307.25702pt x 227.56348pt.
 <bilder/octarm_x8.jpg, id=32, 1927.2pt x 1002.74625pt>
 File: bilder/octarm_x8.jpg Graphic file (type jpg)
 <use bilder/octarm_x8.jpg>
-Package pdftex.def Info: bilder/octarm_x8.jpg  used on input line 117.
+Package pdftex.def Info: bilder/octarm_x8.jpg  used on input line 137.
 (pdftex.def)             Requested size: 385.43318pt x 200.5457pt.
 [5 <./bilder/octocopt_x8.jpg> <./bilder/octarm_x8.jpg>]
 <bilder/servomontering.jpg, id=36, 4047.12pt x 3035.34pt>
 File: bilder/servomontering.jpg Graphic file (type jpg)
 <use bilder/servomontering.jpg>
-Package pdftex.def Info: bilder/servomontering.jpg  used on input line 131.
+Package pdftex.def Info: bilder/servomontering.jpg  used on input line 151.
 (pdftex.def)             Requested size: 307.2879pt x 284.51611pt.
 <bilder/vingemontering.jpg, id=37, 4047.12pt x 3035.34pt>
 File: bilder/vingemontering.jpg Graphic file (type jpg)
 <use bilder/vingemontering.jpg>
-Package pdftex.def Info: bilder/vingemontering.jpg  used on input line 138.
+Package pdftex.def Info: bilder/vingemontering.jpg  used on input line 158.
 (pdftex.def)             Requested size: 307.2879pt x 227.59436pt.
  [6 <./bilder/servomontering.jpg>]
 <bilder/esc_og_motor.jpg, id=44, 3035.34pt x 4047.12pt>
 File: bilder/esc_og_motor.jpg Graphic file (type jpg)
 <use bilder/esc_og_motor.jpg>
-Package pdftex.def Info: bilder/esc_og_motor.jpg  used on input line 147.
+Package pdftex.def Info: bilder/esc_og_motor.jpg  used on input line 167.
 (pdftex.def)             Requested size: 281.64455pt x 216.20074pt.
  [7 <./bilder/vingemontering.jpg> <./bilder/esc_og_motor.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 152--155
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
@@ -787,70 +818,91 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--155
 File: bilder/feilmontering_av_karbon_red.jpg Graphic file (type jpg)
 <use bilder/feilmontering_av_karbon_red.jpg>
 Package pdftex.def Info: bilder/feilmontering_av_karbon_red.jpg  used on input 
-line 159.
+line 179.
 (pdftex.def)             Requested size: 307.25702pt x 199.15665pt.
 <bilder/fylling2_red.jpg, id=49, 4047.12pt x 3035.34pt>
 File: bilder/fylling2_red.jpg Graphic file (type jpg)
 <use bilder/fylling2_red.jpg>
-Package pdftex.def Info: bilder/fylling2_red.jpg  used on input line 165.
+Package pdftex.def Info: bilder/fylling2_red.jpg  used on input line 185.
 (pdftex.def)             Requested size: 307.2879pt x 199.15665pt.
 [8 <./bilder/feilmontering_av_karbon_red.jpg>]
 <bilder/kammermontering.jpg, id=53, 3035.34pt x 4047.12pt>
 File: bilder/kammermontering.jpg Graphic file (type jpg)
 <use bilder/kammermontering.jpg>
-Package pdftex.def Info: bilder/kammermontering.jpg  used on input line 174.
+Package pdftex.def Info: bilder/kammermontering.jpg  used on input line 194.
 (pdftex.def)             Requested size: 256.03207pt x 230.46593pt.
  [9 <./bilder/fylling2_red.jpg> <./bilder/kammermontering.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 <bilder/skjev_halefinne.jpg, id=57, 1336.995pt x 2569.6pt>
 File: bilder/skjev_halefinne.jpg Graphic file (type jpg)
 <use bilder/skjev_halefinne.jpg>
-Package pdftex.def Info: bilder/skjev_halefinne.jpg  used on input line 183.
+Package pdftex.def Info: bilder/skjev_halefinne.jpg  used on input line 203.
 (pdftex.def)             Requested size: 256.07178pt x 284.4997pt.
 <bilder/mottakermontering.jpg, id=58, 3035.34pt x 4047.12pt>
 File: bilder/mottakermontering.jpg Graphic file (type jpg)
 <use bilder/mottakermontering.jpg>
-Package pdftex.def Info: bilder/mottakermontering.jpg  used on input line 191.
+Package pdftex.def Info: bilder/mottakermontering.jpg  used on input line 211.
 (pdftex.def)             Requested size: 307.25702pt x 227.56348pt.
 [10 <./bilder/skjev_halefinne.jpg>]
 <bilder/forste_fly_ferdigstilt.jpg, id=62, 2569.6pt x 1445.4pt>
 File: bilder/forste_fly_ferdigstilt.jpg Graphic file (type jpg)
 <use bilder/forste_fly_ferdigstilt.jpg>
 Package pdftex.def Info: bilder/forste_fly_ferdigstilt.jpg  used on input line 
-200.
+220.
 (pdftex.def)             Requested size: 307.28006pt x 184.93117pt.
- [11 <./bilder/mottakermontering.jpg> <./bilder/forste_fly_ferdigstilt.jpg>] [1
-2] [13] (praksisrapport.aux) ) 
+ [11 <./bilder/mottakermontering.jpg> <./bilder/forste_fly_ferdigstilt.jpg>]
+<bilder/andre_fly_ferdigstilt.jpg, id=66, 1336.995pt x 2569.6pt>
+File: bilder/andre_fly_ferdigstilt.jpg Graphic file (type jpg)
+<use bilder/andre_fly_ferdigstilt.jpg>
+Package pdftex.def Info: bilder/andre_fly_ferdigstilt.jpg  used on input line 2
+29.
+(pdftex.def)             Requested size: 307.27797pt x 227.60759pt.
+ [12 <./bilder/andre_fly_ferdigstilt.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+<bilder/epoxyresin.jpg, id=71, 3035.34pt x 4047.12pt>
+File: bilder/epoxyresin.jpg Graphic file (type jpg)
+<use bilder/epoxyresin.jpg>
+Package pdftex.def Info: bilder/epoxyresin.jpg  used on input line 247.
+(pdftex.def)             Requested size: 307.25702pt x 256.03207pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[13 <./bilder/epoxyresin.jpg>] [14] (praksisrapport.aux) ) 
 Here is how much of TeX's memory you used:
- 14480 strings out of 492973
- 289895 string characters out of 3125806
- 316386 words of memory out of 3000000
- 18230 multiletter control sequences out of 15000+200000
+ 14484 strings out of 492973
+ 290110 string characters out of 3125806
+ 317386 words of memory out of 3000000
+ 18232 multiletter control sequences out of 15000+200000
  549447 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,63p,864b,496s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Fredrik\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Fredrik\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\Fr
-edrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> 
-<C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-cbx2488.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecrm1095.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Fredrik\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Fredrik\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk><C:/User
-s/Fredrik/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Users/Fredrik/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Users/Fredrik/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on praksisrapport.pdf (14 pages, 7942972 bytes).
+ 41i,11n,63p,841b,496s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Fredrik\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\User
+s\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.
+pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecbx1728.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1200.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Fredrik\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Fredr
+ik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:
+\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm
+1440.pk> <C:\Users\Fredrik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\ecrm2074.pk><C:/Users/Fredrik/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/Fredrik/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fredrik/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on praksisrapport.pdf (15 pages, 8795198 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
+ 331 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

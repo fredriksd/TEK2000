@@ -1,14 +1,14 @@
 \babel@toc {norsk}{}
 \contentsline {section}{Introduksjon}{2}
 \contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
-\contentsline {subsection}{Uke 1 og prosjekt}{3}
+\contentsline {subsection}{F\IeC {\o }rste uke og prosjekt}{3}
 \contentsline {subsubsection}{Backlog og GIS}{3}
 \contentsline {subsubsection}{Forberedelse til byggeprosjekt}{4}
-\contentsline {subsection}{Byggeprosjekt}{6}
+\contentsline {subsection}{P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{6}
 \contentsline {subsubsection}{Montering}{6}
 \contentsline {subsubsection}{Inspeksjon}{10}
 \contentsline {subsubsection}{Testflyging}{12}
 \contentsline {section}{Refleksjon over praksisperioden}{13}
 \contentsline {subsection}{Arbeidsforhold}{13}
-\contentsline {subsection}{L\IeC {\ae }rdom}{13}
-\contentsline {subsection}{Konklusjon}{13}
+\contentsline {subsection}{L\IeC {\ae }rdom}{14}
+\contentsline {section}{Konklusjon}{14}
