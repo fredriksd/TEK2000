@@ -1,41 +1,22 @@
-<<<<<<< HEAD
 \babel@toc {norsk}{}
 \contentsline {section}{\numberline {1}Sammendrag}{2}
-\contentsline {section}{\numberline {2}Forord}{3}
-\contentsline {section}{\numberline {3}Innledning}{6}
-\contentsline {section}{\numberline {4}Om arbeidsplassen}{7}
-\contentsline {subsection}{\numberline {4.1}Norut}{7}
-\contentsline {subsection}{\numberline {4.2}Noe av fl\IeC {\r a}ten}{8}
-\contentsline {section}{\numberline {5}Hendelsesforl\IeC {\o }p}{10}
-\contentsline {subsection}{\numberline {5.1}F\IeC {\o }rste uke og prosjekt}{10}
-\contentsline {subsubsection}{\numberline {5.1.1}Backlog og GIS}{10}
-\contentsline {subsubsection}{\numberline {5.1.2}Forberedelse til byggeprosjekt}{11}
-\contentsline {subsection}{\numberline {5.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{13}
-\contentsline {subsubsection}{\numberline {5.2.1}Montering}{13}
-\contentsline {subsubsection}{\numberline {5.2.2}Inspeksjon}{17}
-\contentsline {subsubsection}{\numberline {5.2.3}Testflyging}{19}
-\contentsline {section}{\numberline {6}Refleksjon over praksisperioden}{21}
-\contentsline {subsection}{\numberline {6.1}Arbeidsforhold}{21}
-\contentsline {subsection}{\numberline {6.2}L\IeC {\ae }rdom}{22}
-\contentsline {section}{\numberline {7}Konklusjon}{22}
-\contentsline {section}{\numberline {8}Vedlegg}{23}
-=======
-\select@language {norsk}
-\contentsline {section}{\numberline {1}Prosjektrapport - Side 2}{2}
-\contentsline {section}{\numberline {2}Introduksjon}{4}
-\contentsline {section}{\numberline {3}Om arbeidsplassen}{5}
-\contentsline {subsection}{\numberline {3.1}Norut}{5}
-\contentsline {subsection}{\numberline {3.2}Noe av fl\IeC {\r a}ten}{6}
-\contentsline {section}{\numberline {4}Gjennomf\IeC {\o }ring av praksis}{8}
-\contentsline {subsection}{\numberline {4.1}F\IeC {\o }rste uke og prosjekt}{8}
-\contentsline {subsubsection}{\numberline {4.1.1}Backlog og GIS}{8}
-\contentsline {subsubsection}{\numberline {4.1.2}Forberedelse til byggeprosjekt}{9}
-\contentsline {subsection}{\numberline {4.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{11}
-\contentsline {subsubsection}{\numberline {4.2.1}Montering}{11}
-\contentsline {subsubsection}{\numberline {4.2.2}Inspeksjon}{15}
-\contentsline {subsubsection}{\numberline {4.2.3}Testflyging}{17}
-\contentsline {section}{\numberline {5}Refleksjon over praksisperioden}{18}
-\contentsline {subsection}{\numberline {5.1}Arbeidsforhold}{18}
-\contentsline {subsection}{\numberline {5.2}L\IeC {\ae }rdom}{19}
-\contentsline {section}{\numberline {6}Konklusjon}{19}
->>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
+\contentsline {section}{\numberline {2}Prosjektrapport - Side 2}{3}
+\contentsline {section}{\numberline {3}Forord}{6}
+\contentsline {section}{\numberline {4}Innledning}{8}
+\contentsline {section}{\numberline {5}Om arbeidsplassen}{9}
+\contentsline {subsection}{\numberline {5.1}Norut}{9}
+\contentsline {subsection}{\numberline {5.2}Noe av fl\IeC {\r a}ten}{10}
+\contentsline {section}{\numberline {6}Hendelsesforl\IeC {\o }p}{12}
+\contentsline {section}{\numberline {7}Gjennomf\IeC {\o }ring av praksis}{13}
+\contentsline {subsection}{\numberline {7.1}F\IeC {\o }rste uke og prosjekt}{13}
+\contentsline {subsubsection}{\numberline {7.1.1}Backlog og GIS}{13}
+\contentsline {subsubsection}{\numberline {7.1.2}Forberedelse til byggeprosjekt}{14}
+\contentsline {subsection}{\numberline {7.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{16}
+\contentsline {subsubsection}{\numberline {7.2.1}Montering}{16}
+\contentsline {subsubsection}{\numberline {7.2.2}Inspeksjon}{20}
+\contentsline {subsubsection}{\numberline {7.2.3}Testflyging}{21}
+\contentsline {section}{\numberline {8}Refleksjon over praksisperioden}{23}
+\contentsline {subsection}{\numberline {8.1}Arbeidsforhold}{23}
+\contentsline {subsection}{\numberline {8.2}L\IeC {\ae }rdom}{23}
+\contentsline {section}{\numberline {9}Konklusjon}{23}
+\contentsline {section}{\numberline {10}Vedlegg}{29}
