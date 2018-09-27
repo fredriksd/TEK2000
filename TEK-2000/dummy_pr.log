@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.14)  26 SEP 2018 19:35
 entering extended mode
 **./dummy_pr.tex
@@ -17,10 +18,34 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@subparagraph=\count85
 \c@figure=\count86
 \c@table=\count87
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.5)  26 SEP 2018 19:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dummy_pr.tex
+(./dummy_pr.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+<<<<<<< HEAD
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
 y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
@@ -46,6 +71,29 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count88
 \Gm@cntv=\count89
 \c@Gm@tempcnt=\count90
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -55,6 +103,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
+<<<<<<< HEAD
 
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
 y.cfg"))
@@ -125,10 +174,275 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
 tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+=======
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-norsk/norsk.ldf
+Language: norsk 2012/08/06 v2.0i Norsk support from the babel system
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen111
+)
+Package babel Info: Making " an active character on input line 113.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
+<<<<<<< HEAD
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.
 sty"
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.s
@@ -149,6 +463,41 @@ Package: expl3 2018-08-23 L3 programming layer (code)
 \l__iow_line_target_int=\count101
 \l__iow_one_indent_int=\count102
 \l__iow_indent_int=\count103
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
+L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
+L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
+L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
+L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
+L3 Module: l3str 2015/03/01 v5545 L3 Strings
+L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
+L3 Module: l3int 2015/02/21 v5529 L3 Integers
+\c_max_int=\count92
+\l_tmpa_int=\count93
+\l_tmpb_int=\count94
+\g_tmpa_int=\count95
+\g_tmpb_int=\count96
+L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
+L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
+\g__prg_map_int=\count97
+L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
+L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
+L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
+L3 Module: l3msg 2015/02/26 v5537 L3 Messages
+L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
+\l_iow_line_count_int=\count98
+\l__iow_target_count_int=\count99
+\l__iow_current_line_int=\count100
+\l__iow_current_word_int=\count101
+\l__iow_current_indentation_int=\count102
+L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \c_zero_dim=\dimen114
 \c_max_dim=\dimen115
 \l_tmpa_dim=\dimen116
@@ -167,6 +516,7 @@ Package: expl3 2018-08-23 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
+<<<<<<< HEAD
 \l_keys_choice_int=\count104
 \l__intarray_loop_int=\count105
 \c__intarray_sp_dim=\dimen120
@@ -239,11 +589,28 @@ Package: expl3 2018-08-23 L3 programming layer (code)
 \l__regex_submatch_int=\count172
 \l__regex_zeroth_submatch_int=\count173
 \g__regex_trace_regex_int=\count174
+=======
+L3 Module: l3keys 2015/01/27 v5500 L3 Key-value interfaces
+\g__keyval_level_int=\count103
+\l_keys_choice_int=\count104
+L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
+\c__fp_leading_shift_int=\count105
+\c__fp_middle_shift_int=\count106
+\c__fp_trailing_shift_int=\count107
+\c__fp_big_leading_shift_int=\count108
+\c__fp_big_middle_shift_int=\count109
+\c__fp_big_trailing_shift_int=\count110
+\c__fp_Bigg_leading_shift_int=\count111
+\c__fp_Bigg_middle_shift_int=\count112
+\c__fp_Bigg_trailing_shift_int=\count113
+L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
+<<<<<<< HEAD
 \l__box_top_dim=\dimen121
 \l__box_bottom_dim=\dimen122
 \l__box_left_dim=\dimen123
@@ -361,121 +728,331 @@ Package: l3keys2e 2018-08-23 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_post_box=\box47
 \l__siunitx_table_mantissa_box=\box48
 \l__siunitx_table_result_box=\box49
+=======
+L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen120
+\l__coffin_offset_x_dim=\dimen121
+\l__coffin_offset_y_dim=\dimen122
+\l__coffin_x_dim=\dimen123
+\l__coffin_y_dim=\dimen124
+\l__coffin_x_prime_dim=\dimen125
+\l__coffin_y_prime_dim=\dimen126
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen127
+\l__coffin_display_x_dim=\dimen128
+\l__coffin_display_y_dim=\dimen129
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen130
+\l__box_bottom_dim=\dimen131
+\l__box_left_dim=\dimen132
+\l__box_right_dim=\dimen133
+\l__box_top_new_dim=\dimen134
+\l__box_bottom_new_dim=\dimen135
+\l__box_left_new_dim=\dimen136
+\l__box_right_new_dim=\dimen137
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen138
+\l__coffin_left_corner_dim=\dimen139
+\l__coffin_right_corner_dim=\dimen140
+\l__coffin_bottom_corner_dim=\dimen141
+\l__coffin_top_corner_dim=\dimen142
+\l__coffin_scaled_total_height_dim=\dimen143
+\l__coffin_scaled_width_dim=\dimen144
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2015/03/01 v5544 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count114
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count115
+\l__xparse_m_args_int=\count116
+\l__xparse_mandatory_args_int=\count117
+\l__xparse_processor_int=\count118
+\l__xparse_v_nesting_int=\count119
+)
+Package: siunitx 2015/01/21 v2.6e A comprehensive (SI) units package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen145
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen146
+\extrarowheight=\dimen147
+\NC@list=\toks19
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2014/11/25 v5471 LaTeX2e option processing using LaTeX3 keys
+)
+Variant \tl_if_blank:VTF already defined; not changing it on line 50
+\l__siunitx_tmp_box=\box41
+\l__siunitx_tmp_dim=\dimen148
+\l__siunitx_tmp_int=\count120
+Variant \prop_get:NVNT already defined; not changing it on line 380
+Variant \prop_get:NVNF already defined; not changing it on line 381
+Variant \prop_get:NVNTF already defined; not changing it on line 382
+\l__siunitx_number_mantissa_length_int=\count121
+\l__siunitx_number_uncert_length_int=\count122
+\l__siunitx_round_int=\count123
+\l__siunitx_process_decimal_int=\count124
+\l__siunitx_process_uncertainty_int=\count125
+\l__siunitx_process_fixed_int=\count126
+\l__siunitx_process_integer_min_int=\count127
+\l__siunitx_process_precision_int=\count128
+\l__siunitx_group_min_int=\count129
+\l__siunitx_angle_marker_box=\box42
+\l__siunitx_angle_unit_box=\box43
+\l__siunitx_angle_marker_dim=\dimen149
+\l__siunitx_angle_unit_dim=\dimen150
+\l__siunitx_unit_int=\count130
+\l__siunitx_unit_denominator_int=\count131
+\l__siunitx_unit_numerator_int=\count132
+\l__siunitx_unit_prefix_int=\count133
+\l__siunitx_unit_prefix_base_int=\count134
+\l__siunitx_unit_prefix_gram_int=\count135
+\l__siunitx_number_product_int=\count136
+\c__siunitx_one_fill_skip=\skip51
+\l__siunitx_table_unit_align_skip=\skip52
+\l__siunitx_table_exponent_dim=\dimen151
+\l__siunitx_table_integer_dim=\dimen152
+\l__siunitx_table_mantissa_dim=\dimen153
+\l__siunitx_table_marker_dim=\dimen154
+\l__siunitx_table_result_dim=\dimen155
+\l__siunitx_table_uncert_dim=\dimen156
+\l__siunitx_table_fill_pre_dim=\dimen157
+\l__siunitx_table_fill_post_dim=\dimen158
+\l__siunitx_table_fill_mid_dim=\dimen159
+\l__siunitx_table_pre_box=\box44
+\l__siunitx_table_post_box=\box45
+\l__siunitx_table_mantissa_box=\box46
+\l__siunitx_table_result_box=\box47
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \l__siunitx_table_number_align_skip=\skip53
 \l__siunitx_table_text_align_skip=\skip54
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7237.
+=======
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7176.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIPostPower with sig. 'mm' on line 7240.
+=======
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7179.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIPrefix with sig. 'mmm' on line 7243.
+=======
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7182.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIPrePower with sig. 'mm' on line 7246.
+=======
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7185.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIQualifier with sig. 'mm' on line 7249.
+=======
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7188.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7252.
+=======
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7191.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7255.
+=======
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7194.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7270.
+=======
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7209.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \num with sig. 'om' on line 7279.
+=======
+. Defining command \num with sig. 'om' on line 7217.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7288.
+=======
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7225.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \numrange with sig. 'omm' on line 7297.
+=======
+. Defining command \numrange with sig. 'omm' on line 7233.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7309.
+=======
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7244.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SIrange with sig. 'ommm' on line 7321.
+=======
+. Defining command \SIrange with sig. 'ommm' on line 7255.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SI with sig. 'omom' on line 7333.
+=======
+. Defining command \SI with sig. 'omom' on line 7266.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \sisetup with sig. 'm' on line 7336.
+=======
+. Defining command \sisetup with sig. 'm' on line 7269.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \tablenum with sig. 'om' on line 7351.
+=======
+. Defining command \tablenum with sig. 'om' on line 7281.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \si with sig. 'om' on line 7363.
+=======
+. Defining command \si with sig. 'om' on line 7292.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \numInBookmark with sig. 'om' on line 7410.
+=======
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7339.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \numrangeInBookmark with sig. 'omm' on line 7412.
+=======
+. Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
+. 7341.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SIInBookmark with sig. 'omom' on line 7414.
+=======
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7343.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SIlistInBookmark with sig. 'omm' on line 7416.
+=======
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7345.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \SIrangeInBookmark with sig. 'ommm' on line 7418.
+=======
+. Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
+. 7347.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \siInBookmark with sig. 'om' on line 7419.
 .................................................
 
@@ -485,11 +1062,27 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 ))
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.
 sty"
+=======
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7348.
+.................................................
+\g__file_internal_ior=\read1
+(/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/titling/titling.sty
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip55
 \thanksmargin=\skip56
 \droptitle=\skip57
+<<<<<<< HEAD
 ) (dummy_pr.aux)
+=======
+)
+(./dummy_pr.aux)
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \openout1 = `dummy_pr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -540,6 +1133,7 @@ LaTeX Font Info:    ... okay on input line 46.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<<<<<<< HEAD
 
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
 mkii"
@@ -593,11 +1187,57 @@ tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen160
+\scratchbox=\box48
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen161
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+<<<<<<< HEAD
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
 xcmds.sty"
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
@@ -619,6 +1259,22 @@ Now handling font encoding TS1 ...
 
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+=======
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -688,6 +1344,7 @@ File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
+<<<<<<< HEAD
    defining Unicode char U+FEFF (decimal 65279)
 )
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\trans
@@ -698,16 +1355,35 @@ Dictionary: translator-basic-dictionary, Language: English
 abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
+=======
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count143
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 46.
+<<<<<<< HEAD
 <uitlogo.png, id=1, 92.2647pt x 108.6459pt>
 File: uitlogo.png Graphic file (type png)
 <use uitlogo.png>
 Package pdftex.def Info: uitlogo.png  used on input line 52.
+=======
+\c__siunitx_mathtt_int=\count144
+ <uitlogo.png, id=1, 92.2647pt x 108.6459pt>
+File: uitlogo.png Graphic file (type png)
+ <use uitlogo.png>
+Package pdftex.def Info: uitlogo.png used on input line 52.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 170.74191pt x 170.7236pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 52.
@@ -715,7 +1391,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 52.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
 
+<<<<<<< HEAD
 ("C:\Users\Fredrik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -724,6 +1404,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 52.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+<<<<<<< HEAD
 [1
 
 {C:/Users/Fredrik/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./uitlogo
@@ -734,6 +1415,19 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 \openout3 = `dummy_pr.toc'.
 
  (dummy_pr.lof)
+=======
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./uitlo
+go.png>]
+[2
+
+] (./dummy_pr.toc)
+\tf@toc=\write3
+\openout3 = `dummy_pr.toc'.
+
+ (./dummy_pr.lof)
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 \tf@lof=\write4
 \openout4 = `dummy_pr.lof'.
 
@@ -796,6 +1490,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
+<<<<<<< HEAD
 [5]
 <bilder/CryoWing_Explorer.jpeg, id=28, 438.0pt x 246.375pt>
 File: bilder/CryoWing_Explorer.jpeg Graphic file (type jpg)
@@ -825,6 +1520,41 @@ Package pdftex.def Info: bilder/Dji_inspire.jpg  used on input line 139.
 File: bilder/flightlogNorut.png Graphic file (type png)
 <use bilder/flightlogNorut.png>
 Package pdftex.def Info: bilder/flightlogNorut.png  used on input line 161.
+=======
+[5] <bilder/CryoWing_Explorer.jpeg, id=29, 438.0pt x 246.375pt>
+File: bilder/CryoWing_Explorer.jpeg Graphic file (type jpg)
+
+<use bilder/CryoWing_Explorer.jpeg>
+Package pdftex.def Info: bilder/CryoWing_Explorer.jpeg used on input line 119.
+(pdftex.def)             Requested size: 307.31302pt x 256.10364pt.
+
+<bilder/CryoWing_Scout.jpeg, id=30, 258.9675pt x 195.73125pt>
+File: bilder/CryoWing_Scout.jpeg Graphic file (type jpg)
+
+<use bilder/CryoWing_Scout.jpeg>
+Package pdftex.def Info: bilder/CryoWing_Scout.jpeg used on input line 125.
+(pdftex.def)             Requested size: 307.32555pt x 256.09023pt.
+ [6 <./bilder/CryoWing_Explorer.jpeg> <./bilder/CryoWing_Scout.jpeg>] <bilder/S
+kyWalker_X8.jpg, id=34, 4015.0pt x 3011.25pt>
+File: bilder/SkyWalker_X8.jpg Graphic file (type jpg)
+
+<use bilder/SkyWalker_X8.jpg>
+Package pdftex.def Info: bilder/SkyWalker_X8.jpg used on input line 133.
+(pdftex.def)             Requested size: 307.2384pt x 256.06773pt.
+
+<bilder/Dji_inspire.jpg, id=35, 702.625pt x 501.875pt>
+File: bilder/Dji_inspire.jpg Graphic file (type jpg)
+
+<use bilder/Dji_inspire.jpg>
+Package pdftex.def Info: bilder/Dji_inspire.jpg used on input line 139.
+(pdftex.def)             Requested size: 307.30118pt x 256.08304pt.
+ [7 <./bilder/SkyWalker_X8.jpg> <./bilder/Dji_inspire.jpg>] <bilder/flightlogNo
+rut.png, id=40, 952.30782pt x 1575.63657pt>
+File: bilder/flightlogNorut.png Graphic file (type png)
+
+<use bilder/flightlogNorut.png>
+Package pdftex.def Info: bilder/flightlogNorut.png used on input line 161.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 256.0803pt x 284.51595pt.
  [8 <./bilder/flightlogNorut.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 165--166
@@ -843,6 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
+<<<<<<< HEAD
 <bilder/octocopt_x8.jpg, id=46, 3035.34pt x 4047.12pt>
 File: bilder/octocopt_x8.jpg Graphic file (type jpg)
 <use bilder/octocopt_x8.jpg>
@@ -869,12 +1600,48 @@ Package pdftex.def Info: bilder/vingemontering.jpg  used on input line 219.
 File: bilder/esc_og_motor.jpg Graphic file (type jpg)
 <use bilder/esc_og_motor.jpg>
 Package pdftex.def Info: bilder/esc_og_motor.jpg  used on input line 228.
+=======
+<bilder/octocopt_x8.jpg, id=47, 3035.34pt x 4047.12pt>
+File: bilder/octocopt_x8.jpg Graphic file (type jpg)
+
+<use bilder/octocopt_x8.jpg>
+Package pdftex.def Info: bilder/octocopt_x8.jpg used on input line 191.
+(pdftex.def)             Requested size: 307.25702pt x 227.56348pt.
+
+<bilder/octarm_x8.jpg, id=48, 1927.2pt x 1002.74625pt>
+File: bilder/octarm_x8.jpg Graphic file (type jpg)
+
+<use bilder/octarm_x8.jpg>
+Package pdftex.def Info: bilder/octarm_x8.jpg used on input line 198.
+(pdftex.def)             Requested size: 385.43318pt x 200.5457pt.
+ [10 <./bilder/octocopt_x8.jpg> <./bilder/octarm_x8.jpg>] <bilder/servomonterin
+g.jpg, id=52, 4047.12pt x 3035.34pt>
+File: bilder/servomontering.jpg Graphic file (type jpg)
+
+<use bilder/servomontering.jpg>
+Package pdftex.def Info: bilder/servomontering.jpg used on input line 212.
+(pdftex.def)             Requested size: 307.2879pt x 284.51611pt.
+
+<bilder/vingemontering.jpg, id=53, 4047.12pt x 3035.34pt>
+File: bilder/vingemontering.jpg Graphic file (type jpg)
+
+<use bilder/vingemontering.jpg>
+Package pdftex.def Info: bilder/vingemontering.jpg used on input line 219.
+(pdftex.def)             Requested size: 307.2879pt x 227.59436pt.
+ [11 <./bilder/servomontering.jpg>]
+<bilder/esc_og_motor.jpg, id=59, 3035.34pt x 4047.12pt>
+File: bilder/esc_og_motor.jpg Graphic file (type jpg)
+
+<use bilder/esc_og_motor.jpg>
+Package pdftex.def Info: bilder/esc_og_motor.jpg used on input line 228.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 281.64455pt x 216.20074pt.
  [12 <./bilder/vingemontering.jpg> <./bilder/esc_og_motor.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
  []
 
+<<<<<<< HEAD
 <bilder/feilmontering_av_karbon_red.jpg, id=62, 3035.34pt x 4047.12pt>
 File: bilder/feilmontering_av_karbon_red.jpg Graphic file (type jpg)
 <use bilder/feilmontering_av_karbon_red.jpg>
@@ -891,12 +1658,35 @@ Package pdftex.def Info: bilder/fylling2_red.jpg  used on input line 246.
 File: bilder/kammermontering.jpg Graphic file (type jpg)
 <use bilder/kammermontering.jpg>
 Package pdftex.def Info: bilder/kammermontering.jpg  used on input line 255.
+=======
+<bilder/feilmontering_av_karbon_red.jpg, id=63, 3035.34pt x 4047.12pt>
+File: bilder/feilmontering_av_karbon_red.jpg Graphic file (type jpg)
+
+<use bilder/feilmontering_av_karbon_red.jpg>
+Package pdftex.def Info: bilder/feilmontering_av_karbon_red.jpg used on input l
+ine 240.
+(pdftex.def)             Requested size: 307.25702pt x 199.15665pt.
+
+<bilder/fylling2_red.jpg, id=64, 4047.12pt x 3035.34pt>
+File: bilder/fylling2_red.jpg Graphic file (type jpg)
+
+<use bilder/fylling2_red.jpg>
+Package pdftex.def Info: bilder/fylling2_red.jpg used on input line 246.
+(pdftex.def)             Requested size: 307.2879pt x 199.15665pt.
+ [13 <./bilder/feilmontering_av_karbon_red.jpg>]
+<bilder/kammermontering.jpg, id=69, 3035.34pt x 4047.12pt>
+File: bilder/kammermontering.jpg Graphic file (type jpg)
+
+<use bilder/kammermontering.jpg>
+Package pdftex.def Info: bilder/kammermontering.jpg used on input line 255.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 256.03207pt x 230.46593pt.
  [14 <./bilder/fylling2_red.jpg> <./bilder/kammermontering.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
+<<<<<<< HEAD
 <bilder/skjev_halefinne.jpg, id=72, 1336.995pt x 2569.6pt>
 File: bilder/skjev_halefinne.jpg Graphic file (type jpg)
 <use bilder/skjev_halefinne.jpg>
@@ -920,22 +1710,61 @@ File: bilder/andre_fly_ferdigstilt.jpg Graphic file (type jpg)
 <use bilder/andre_fly_ferdigstilt.jpg>
 Package pdftex.def Info: bilder/andre_fly_ferdigstilt.jpg  used on input line 2
 90.
+=======
+<bilder/skjev_halefinne.jpg, id=73, 1336.995pt x 2569.6pt>
+File: bilder/skjev_halefinne.jpg Graphic file (type jpg)
+
+<use bilder/skjev_halefinne.jpg>
+Package pdftex.def Info: bilder/skjev_halefinne.jpg used on input line 264.
+(pdftex.def)             Requested size: 256.07178pt x 284.4997pt.
+
+<bilder/mottakermontering.jpg, id=74, 3035.34pt x 4047.12pt>
+File: bilder/mottakermontering.jpg Graphic file (type jpg)
+
+<use bilder/mottakermontering.jpg>
+Package pdftex.def Info: bilder/mottakermontering.jpg used on input line 272.
+(pdftex.def)             Requested size: 307.25702pt x 227.56348pt.
+ [15 <./bilder/skjev_halefinne.jpg>]
+<bilder/forste_fly_ferdigstilt.jpg, id=78, 2569.6pt x 1445.4pt>
+File: bilder/forste_fly_ferdigstilt.jpg Graphic file (type jpg)
+
+<use bilder/forste_fly_ferdigstilt.jpg>
+Package pdftex.def Info: bilder/forste_fly_ferdigstilt.jpg used on input line 2
+81.
+(pdftex.def)             Requested size: 307.28006pt x 184.93117pt.
+ [16 <./bilder/mottakermontering.jpg> <./bilder/forste_fly_ferdigstilt.jpg>]
+<bilder/andre_fly_ferdigstilt.jpg, id=82, 1336.995pt x 2569.6pt>
+File: bilder/andre_fly_ferdigstilt.jpg Graphic file (type jpg)
+
+<use bilder/andre_fly_ferdigstilt.jpg>
+Package pdftex.def Info: bilder/andre_fly_ferdigstilt.jpg used on input line 29
+0.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 307.27797pt x 227.60759pt.
  [17 <./bilder/andre_fly_ferdigstilt.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 303--305
 
  []
 
+<<<<<<< HEAD
 <bilder/epoxyresin.jpg, id=85, 3035.34pt x 4047.12pt>
 File: bilder/epoxyresin.jpg Graphic file (type jpg)
 <use bilder/epoxyresin.jpg>
 Package pdftex.def Info: bilder/epoxyresin.jpg  used on input line 308.
+=======
+<bilder/epoxyresin.jpg, id=86, 3035.34pt x 4047.12pt>
+File: bilder/epoxyresin.jpg Graphic file (type jpg)
+
+<use bilder/epoxyresin.jpg>
+Package pdftex.def Info: bilder/epoxyresin.jpg used on input line 308.
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
 (pdftex.def)             Requested size: 307.25702pt x 256.03207pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
+<<<<<<< HEAD
 [18 <./bilder/epoxyresin.jpg>] [19] (dummy_pr.aux) ) 
 Here is how much of TeX's memory you used:
  14485 strings out of 492973
@@ -962,6 +1791,34 @@ type1/public/amsfonts/cm/cmsy8.pfb>
 Output written on dummy_pr.pdf (19 pages, 10095403 bytes).
 PDF statistics:
  380 PDF objects out of 1000 (max. 8388607)
+=======
+[18 <./bilder/epoxyresin.jpg>] [19] (./dummy_pr.aux) ) 
+Here is how much of TeX's memory you used:
+ 11558 strings out of 493089
+ 242574 string characters out of 6134843
+ 258649 words of memory out of 5000000
+ 14910 multiletter control sequences out of 15000+600000
+ 17517 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,39p,10395b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/font
+s/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/cm-super/sfrm2074.pfb>
+Output written on dummy_pr.pdf (19 pages, 10113132 bytes).
+PDF statistics:
+ 131 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+>>>>>>> 3de0eba0c50084b34c0e8dfb784fd8b0ce1b13ef
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
