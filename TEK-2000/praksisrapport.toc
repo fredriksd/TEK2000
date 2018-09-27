@@ -1,14 +1,20 @@
 \babel@toc {norsk}{}
-\contentsline {section}{Introduksjon}{2}
-\contentsline {section}{Hendelsesforl\IeC {\o }p}{3}
-\contentsline {subsection}{F\IeC {\o }rste uke og prosjekt}{3}
-\contentsline {subsubsection}{Backlog og GIS}{3}
-\contentsline {subsubsection}{Forberedelse til byggeprosjekt}{4}
-\contentsline {subsection}{P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{6}
-\contentsline {subsubsection}{Montering}{6}
-\contentsline {subsubsection}{Inspeksjon}{10}
-\contentsline {subsubsection}{Testflyging}{12}
-\contentsline {section}{Refleksjon over praksisperioden}{13}
-\contentsline {subsection}{Arbeidsforhold}{13}
-\contentsline {subsection}{L\IeC {\ae }rdom}{14}
-\contentsline {section}{Konklusjon}{14}
+\contentsline {section}{\numberline {1}Sammendrag}{2}
+\contentsline {section}{\numberline {2}Forord}{3}
+\contentsline {section}{\numberline {3}Innledning}{6}
+\contentsline {section}{\numberline {4}Om arbeidsplassen}{7}
+\contentsline {subsection}{\numberline {4.1}Norut}{7}
+\contentsline {subsection}{\numberline {4.2}Noe av fl\IeC {\r a}ten}{8}
+\contentsline {section}{\numberline {5}Hendelsesforl\IeC {\o }p}{10}
+\contentsline {subsection}{\numberline {5.1}F\IeC {\o }rste uke og prosjekt}{10}
+\contentsline {subsubsection}{\numberline {5.1.1}Backlog og GIS}{10}
+\contentsline {subsubsection}{\numberline {5.1.2}Forberedelse til byggeprosjekt}{11}
+\contentsline {subsection}{\numberline {5.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{13}
+\contentsline {subsubsection}{\numberline {5.2.1}Montering}{13}
+\contentsline {subsubsection}{\numberline {5.2.2}Inspeksjon}{17}
+\contentsline {subsubsection}{\numberline {5.2.3}Testflyging}{19}
+\contentsline {section}{\numberline {6}Refleksjon over praksisperioden}{21}
+\contentsline {subsection}{\numberline {6.1}Arbeidsforhold}{21}
+\contentsline {subsection}{\numberline {6.2}L\IeC {\ae }rdom}{22}
+\contentsline {section}{\numberline {7}Konklusjon}{22}
+\contentsline {section}{\numberline {8}Vedlegg}{23}
