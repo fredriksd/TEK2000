@@ -1,22 +1,26 @@
 \babel@toc {norsk}{}
-\contentsline {section}{\numberline {1}Sammendrag}{2}
-\contentsline {section}{\numberline {2}Prosjektrapport - Side 2}{3}
-\contentsline {section}{\numberline {3}Forord}{6}
-\contentsline {section}{\numberline {4}Innledning}{8}
-\contentsline {section}{\numberline {5}Om arbeidsplassen}{9}
-\contentsline {subsection}{\numberline {5.1}Norut}{9}
-\contentsline {subsection}{\numberline {5.2}Noe av fl\IeC {\r a}ten}{10}
-\contentsline {section}{\numberline {6}Hendelsesforl\IeC {\o }p}{12}
-\contentsline {section}{\numberline {7}Gjennomf\IeC {\o }ring av praksis}{13}
-\contentsline {subsection}{\numberline {7.1}F\IeC {\o }rste uke og prosjekt}{13}
-\contentsline {subsubsection}{\numberline {7.1.1}Backlog og GIS}{13}
-\contentsline {subsubsection}{\numberline {7.1.2}Forberedelse til byggeprosjekt}{14}
-\contentsline {subsection}{\numberline {7.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{16}
-\contentsline {subsubsection}{\numberline {7.2.1}Montering}{16}
-\contentsline {subsubsection}{\numberline {7.2.2}Inspeksjon}{20}
-\contentsline {subsubsection}{\numberline {7.2.3}Testflyging}{21}
-\contentsline {section}{\numberline {8}Refleksjon over praksisperioden}{23}
-\contentsline {subsection}{\numberline {8.1}Arbeidsforhold}{23}
-\contentsline {subsection}{\numberline {8.2}L\IeC {\ae }rdom}{23}
-\contentsline {section}{\numberline {9}Konklusjon}{23}
-\contentsline {section}{\numberline {10}Vedlegg}{29}
+\contentsline {section}{\numberline {1}Innledning}{6}{section.1}
+\contentsline {section}{\numberline {2}Om arbeidsplassen}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Norut}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Noe av fl\IeC {\r a}ten}{8}{subsection.2.2}
+\contentsline {section}{\numberline {3}Gjennomf\IeC {\o }ring av praksis}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}F\IeC {\o }rste uke og prosjekt}{11}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Backlog og GIS}{11}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Forberedelse til byggeprosjekt}{12}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}P\IeC {\r a}f\IeC {\o }lgende uker: Byggeprosjekt}{14}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Montering}{14}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Inspeksjon}{18}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Testflyging}{20}{subsubsection.3.2.3}
+\contentsline {section}{\numberline {4}Refleksjon over praksisperioden}{22}{section.4}
+\contentsline {subsection}{\numberline {4.1}Arbeidsforhold}{22}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}L\IeC {\ae }rdom}{23}{subsection.4.2}
+\contentsline {section}{\numberline {5}Konklusjon}{24}{section.5}
+\contentsline {section}{\numberline {6}Kildehenvisning}{25}{section.6}
+\contentsline {section}{\numberline {7}Vedlegg}{26}{section.7}
+\contentsline {section}{\numberline {A}Attest fra Norut}{27}{Tillegg.a.A}
+\contentsline {section}{\numberline {B}Praksisplan}{29}{Tillegg.a.B}
+\contentsline {section}{\numberline {C}Logg av praksisperiode}{31}{Tillegg.a.C}
+\contentsline {section}{\numberline {D}Mission Acceptance Form}{35}{Tillegg.a.D}
+\contentsline {section}{\numberline {E}CryoWing Observer byggelogg}{37}{Tillegg.a.E}
+\contentsline {section}{\numberline {F}Determining CryoWing Observer capabilities}{42}{Tillegg.a.F}
+\contentsline {section}{\numberline {G}CryoWing Observer Pilot Operating Handbook}{45}{Tillegg.a.G}
